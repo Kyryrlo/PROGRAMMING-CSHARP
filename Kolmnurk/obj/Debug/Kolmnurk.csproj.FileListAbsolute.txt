@@ -1,0 +1,10 @@
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.csproj.AssemblyReference.cache
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\bin\Debug\Kolmnurk.exe.config
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\bin\Debug\Kolmnurk.exe
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\bin\Debug\Kolmnurk.pdb
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.Kolmnurk_vorms.resources
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.Properties.Resources.resources
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.csproj.GenerateResource.cache
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.csproj.CoreCompileInputs.cache
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.exe
+C:\Users\Kyrylo\source\repos\CSharp-master\Kolmnurk\obj\Debug\Kolmnurk.pdb
